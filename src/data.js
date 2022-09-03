@@ -13,15 +13,6 @@ function chillHop() {
             active: true,
         },
         {
-            name:"Mashup Reggae",
-            artist: "Reggae",
-            cover: "https://manuappshome.files.wordpress.com/2019/09/mashup-reggae.png",
-            id: uuidv4(),
-            color: ["#D7B0D5", "#CBDFE0"],
-            audio: "https://ais-edge37-live365-dal02.cdnstream.com/a00564",
-            active: false,
-        },
-        {
             name:"La Grosse Radio Reggae Francia",
             artist: "Reggae",
             cover: "https://manuappshome.files.wordpress.com/2019/09/la-grosse-radio-reggae-reggae.png",
@@ -1000,6 +991,15 @@ function chillHop() {
             id: uuidv4(),
             color: ["#008781", "#cfc08c"],
             audio: "https://radioteamotropical-radiofelove.radioca.st/stream",
+            active: false,
+        },
+        {
+            name:"Mashup Reggae",
+            artist: "Reggae",
+            cover: "https://manuappshome.files.wordpress.com/2019/09/mashup-reggae.png",
+            id: uuidv4(),
+            color: ["#D7B0D5", "#CBDFE0"],
+            audio: "https://ais-edge37-live365-dal02.cdnstream.com/a00564",
             active: false,
         },
         {
